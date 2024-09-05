@@ -1,0 +1,116 @@
+{
+  "resume": {
+    "name": {
+      "first": "John",
+      "middle": "Michael",
+      "last": "Doe"
+    },
+    "contact": {
+      "email": "johndoe@example.com",
+      "phone": "(123) 456-7890",
+      "personal_website": "https://www.johndoe.com",
+      "linkedIn": "https://www.linkedin.com/in/johndoe"
+    },
+    "address": {
+      "street": "123 Elm Street",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62701"
+    },
+    "experience": [
+      {
+        "title": "Senior Product Manager / Lead Front-End Engineer",
+        "company": "Tech Solutions Inc",
+        "start": "2021-06-01T00:00:00.000Z",
+        "end": null,
+        "bullets": [],
+        "current": true,
+        "summary": "I specialize in overseeing the full software development lifecycle of high-impact web applications, particularly those centered on enterprise solutions for various industries, from conception to successful deployment. My efforts ensure that all projects are closely aligned with organizational objectives, enabling both technological advancements and business growth. I have led the development and implementation of innovative product strategies, setting a clear technical direction for future projects while consistently delivering scalable, high-performing software solutions.\n\nBeyond strategic leadership, I have deep expertise in frontend development, focusing on UI/UX design improvements using tools like Figma and React frameworks. I create complex, reusable components tailored for scalable, modular use across multiple products. I also implement advanced state management solutions to optimize performance and user experience.\n\nIn addition to my technical and managerial roles, I am responsible for managing project portfolios with a budget of over $1,000,000, ensuring timely delivery and resource optimization. My ability to manage concurrent responsibilities while achieving key performance indicators underlines my dedication to delivering exceptional results in line with business goals.\n\nI work directly with a diverse range of clients nationwide to design and develop custom-tailored software solutions, focusing on RESTful API development and database management (PostgreSQL, MySQL). As a lead developer, I also manage a team of junior developers, mentoring them on best coding practices, software architecture design, version control management, continuous deployment, and operational excellence.\n\nI am actively involved in rapid prototyping for new product lines, integrating AI-driven tools and large language models to improve analytics, automate processes, and optimize business workflows."
+      },
+      {
+        "title": "Project Manager",
+        "company": "Innovate Solutions LLC",
+        "start": "2020-02-01T00:00:00.000Z",
+        "end": "2021-05-31T00:00:00.000Z",
+        "bullets": [
+          "Led multiple high-value software development projects for clients across diverse industries, each with budgets over $250,000.",
+          "Managed full project lifecycle using Agile methodology, ensuring on-time and within-budget delivery of solutions.",
+          "Successfully launched a customer relationship management platform, improving client engagement and satisfaction."
+        ],
+        "current": false,
+        "location": "Springfield, IL"
+      }
+    ],
+    "education": [
+      {
+        "school": "University of Illinois",
+        "degree": "Master of Science",
+        "major": "Computer Science",
+        "location": {
+          "city": "Champaign",
+          "state": "IL"
+        },
+        "start": "2018-08-01T00:00:00.000Z",
+        "end": "2020-05-01T00:00:00.000Z",
+        "gpa": 3.8,
+        "current": false
+      },
+      {
+        "school": "Illinois State University",
+        "degree": "Bachelor of Science",
+        "major": "Information Systems",
+        "location": {
+          "city": "Normal",
+          "state": "IL"
+        },
+        "start": "2014-08-01T00:00:00.000Z",
+        "end": "2018-05-01T00:00:00.000Z",
+        "gpa": 3.6,
+        "current": false
+      }
+    ],
+    "skills": [
+      "Next.js",
+      "React",
+      "Typescript",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "PHP",
+      "Node.js",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "Material UI",
+      "UI/UX Design",
+      "Agile Methodology",
+      "Scrum",
+      "Project Management"
+    ],
+    "certificates": [
+      {
+        "name": "Certified Scrum Master (CSM)",
+        "issuer": "Scrum Alliance",
+        "issue_date": "2022-03-01T00:00:00.000Z",
+        "expiration_date": "2025-03-01T00:00:00.000Z"
+      }
+    ],
+    "projects": [
+      {
+        "name": "TaskManager Pro",
+        "description": "",
+        "start": "2019-06-01T00:00:00.000Z",
+        "end": null,
+        "bullets": [
+          "Developed a robust project management software that integrates AI features for task automation and performance tracking.",
+          "Led the design and implementation of a mobile-friendly, responsive interface using Next.js and Tailwind CSS.",
+          "Implemented real-time collaboration tools that significantly increased team productivity."
+        ],
+        "current": true
+      }
+    ]
+  },
+  "writing": {
+    "writingStyle": "Maintain a professional tone with clear, concise language. Focus on delivering information in a straightforward manner while using technical terms when necessary. Break complex ideas into easily digestible parts, ensuring readability and engagement. Keep grammar polished and avoid informal language.",
+    "grammar": ""
+  }
+}

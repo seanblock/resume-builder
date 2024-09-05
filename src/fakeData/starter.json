@@ -1,0 +1,71 @@
+{
+  "resume": {
+    "name": {
+      "first": "",
+      "middle": "",
+      "last": ""
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "personal_website": "",
+      "linkedIn": ""
+    },
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "experience": [
+      {
+        "title": "",
+        "company": "",
+        "location": "",
+        "start": null,
+        "end": null,
+        "bullets": [""],
+        "summary": "",
+        "current": false
+      }
+    ],
+    "education": [
+      {
+        "school": "",
+        "degree": "",
+        "major": "",
+        "location": {
+          "city": "",
+          "state": ""
+        },
+        "start": null,
+        "end": null,
+        "gpa": null,
+        "current": false
+      }
+    ],
+    "skills": [],
+    "certificates": [
+      {
+        "name": "",
+        "issuer": "",
+        "issue_date": null,
+        "expiration_date": null
+      }
+    ],
+    "projects": [
+      {
+        "name": "",
+        "description": "",
+        "start": null,
+        "end": null,
+        "bullets": [],
+        "current": false
+      }
+    ]
+  },
+  "writing": {
+    "writingStyle": "",
+    "grammar": ""
+  }
+}
